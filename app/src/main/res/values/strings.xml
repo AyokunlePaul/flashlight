@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Ei-Flash</string>
+    <string name="imageContent">Toggle Image</string>
+    <string name="text_on">On</string>
+    <string name="text_off">Off</string>
+</resources>
